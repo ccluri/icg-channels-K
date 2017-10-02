@@ -8,11 +8,11 @@ doi:10.1007/s10827-009-0161-7
 
 Mermelstein, P. G., Song, W. J., Tkatch, T., Yan, Z., & Surmeier, D. J. (1998). Inwardly rectifying potassium
 (IRK) currents are correlated with IRK subunit expression in rat nucleus accumbens medium spiny neurons. 
-The Journal of Neuroscience, 18, 6650–6661.
+The Journal of Neuroscience, 18, 66506661.
 
-Wolf, J. A., Moyer, J. T., Lazarewicz, M. T., Contreras, D., Benoit-Marand, M., O’Donnel, P., et al. (2005). 
+Wolf, J. A., Moyer, J. T., Lazarewicz, M. T., Contreras, D., Benoit-Marand, M., ODonnel, P., et al. (2005). 
 NMDA/AMPA ratio impacts state transitions and entrainment to oscillations in a computational model of 
-the nucleus accumbens medium spiny projection neuron. The Journal of Neuroscience, 25, 9080–9095.
+the nucleus accumbens medium spiny projection neuron. The Journal of Neuroscience, 25, 90809095.
 doi:10.1523/JNEUROSCI.2220-05.2005.
 
 ENDCOMMENT
